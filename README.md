@@ -27,10 +27,9 @@ ft_transcendence is a full-stack single-page application (SPA) featuring a 3D pi
 ```
 
 2. Build the Docker images (if it's the first time you are setting up):
-
-    ```bash
+```bash
     docker-compose build
-    ```
+```
 3. Start the app:
 ```bash
     docker-compose up
